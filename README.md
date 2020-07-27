@@ -8,6 +8,7 @@ If you have difficulties to install qiime1, then probably the below commands wil
 `pip install numpy` \
 `conda install -c bioconda biom-format`\
 `pip install qiime`\
+`conda install -c bioconda fastq-join`\
 `print_qiime_config.py -t`  #check the installation
 
 ##### If you want to uninstall qiime1 from the conda environment then use this below command
